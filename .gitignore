@@ -1,2 +1,11 @@
 
+# Specific Files
 secrets.txt
+
+# Ignore Folders
+secrets/
+
+# Ignore Files of Type
+# *.txt
+# *.log
+# *.tmp
