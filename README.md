@@ -15,4 +15,4 @@ Intructions for using the project.
 
 Instructions for contributing to the project.
 
-DEV THING
+## This is the DEV branch.
