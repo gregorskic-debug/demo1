@@ -22,7 +22,6 @@ Instructions for contributing to the project.
 
 
 
-<<<<<<< Updated upstream
 
 
 
@@ -32,6 +31,4 @@ Instructions for contributing to the project.
 
 
 My boss wanted me to add this line
-=======
-Feature B
->>>>>>> Stashed changes
+Feature B is finished.
